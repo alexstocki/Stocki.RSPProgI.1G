@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1670884229 source:c:\users\alex\desktop\stocki.rsppi.1g\mascotas.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	<string.h>
+	"mascotas.h"
+
+1670884189 c:\users\alex\desktop\stocki.rsppi.1g\mascotas.h
+
